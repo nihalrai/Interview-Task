@@ -1,0 +1,1257 @@
+{
+    "Engineering": [
+        {
+            "title": "Software Engineer (Senior/Principal/Architect) - Singapore",
+            "location": "Singapore",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn the software engineering best practices here",
+                "Deliver good quality code in a reasonable timeline"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java or Javascript,\u00a0",
+                "High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Search & Personalization or Machine Learning"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Data Scientist  (Junior/Senior/Principal/Architect) - Singapore",
+            "location": "Singapore",
+            "description": [
+                "Analyze data to bring insights that can help solve problem or prevent future problem to arise.",
+                "Create hypothesis and test hypothesis using our data. If we don't have the data, propose a way to capture and extract the needed data to stakeholders.\u00a0",
+                "Train data model based on our current data\u00a0",
+                "Define and monitor key metrics and alert the business on potential issues.",
+                "Analyze operational efficiency and build business models to guide decision-making.\u00a0",
+                "Design market/business intelligence reports and performance measurement dashboards.\u00a0",
+                "Enhance our data infra, analyze large, complex data sets into actionable insights."
+            ],
+            "qualification": [
+                "At least a Bachelor degree in computing intensive subjects, e.g. finance, financial mathematics, computer science, mathematics, physics, bio-informatics, engineering\u00a0",
+                "Knowledgeable in SQL, data visualization using tools like Tableau and can code basic Python/R\u00a0",
+                "Advanced statistics knowledge\u00a0",
+                "Unafraid to deal with large, dirty, and messy data and can create ETL to clean and make the data workable - Amazing problem solver\u00a0",
+                "Experienced in using advanced analytics/machine learning in the real world scenario",
+                "Past participation in science Olympiad or Kaggle is a plus",
+                "Proficiency in Java or Phyton."
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Android Developer (Senior/Principal/Architect) - Singapore",
+            "location": "Singapore",
+            "description": [
+                "Develop the Android application",
+                "Contribute to all aspects of the Android development lifecycle including design, development, documentation, testing and operations",
+                "Create clean, easy to read code within reasonable timeline",
+                "Review each other's code and learn the software engineering best practices"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java & Kotlin.",
+                "Experience in Android Native.",
+                "Experience in Android development is a must. Having developed an Android app from scratch to publication is a big plus"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "IOS Developer (Senior/Principal/Architect) - Singapore",
+            "location": "Singapore",
+            "description": [
+                "Develop the iOS application for Cermati\u00a0",
+                "Contribute to all aspects of the IOS development lifecycle including design, development, documentation, testing and operations\u00a0",
+                "Create clean, easy to read code within reasonable timeline\u00a0",
+                "Review each other's code and learn the software engineering best practices\u00a0"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer\u00a0",
+                "Proficiency in,programming language such as Swift.",
+                "Experience in native iPhone and iPad development is a must.\u00a0",
+                "Having developed an IOS app from scratch to publication is a big plus"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Engineer (Lead/Manager/Head) - Singapore",
+            "location": "Singapore",
+            "description": [
+                "Lead and mentor junior engineers to develop their skills and grow their careers at Cermat",
+                "Understand Cermati's business and improve cermati's business with the help of your engineering team",
+                "Hire and help the company find new engineering talent",
+                "Responsible for managing, growing your team as well as your team member's promotions, demotions, hiring, firing, etc.",
+                "Ensure that your team is happy, motivated and productive at Cermat",
+                "Work with your team to build features, to maintain old code, improve and clean the code that your team owns",
+                "Contribute to design decision and review each other's code",
+                "Make sure the code that your team owns will be available 24/7 and you're willing to troubleshoot and maintain the services that your team owns",
+                "Work together with product manager to set the feature specs and set the target deadline.",
+                "Drive the projects so you can meet the deadline with your team"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as\u00a0Java or Javascript",
+                "Has high level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Proven record of good mentorship and leadership in delivering high quality projects",
+                "At least 3 years experience working in a good tech oriented company",
+                "At least have 2 years experience manage people and team.",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Search & Personalization or Machine Learning"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "IOS Developer - India",
+            "location": "Bengaluru, Karnataka, India",
+            "description": [
+                "Develop the iOS application for Cermati\u00a0",
+                "Contribute to all aspects of the Android development lifecycle including design, development, documentation, testing and operations\u00a0",
+                "Create clean, easy to read code within reasonable timeline\u00a0",
+                "Review each other's code and learn the software engineering best practices\u00a0",
+                "This is a full time job and not an internship"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer\u00a0",
+                "Proficiency in, at least, one programming language such as Objective C, Swift, Java, Python, Javascript\u00a0",
+                "Experience in native iPhone and iPad development is a must.\u00a0",
+                "Having developed an IOS app from scratch to publication is a big plus"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Frontend Developer - India",
+            "location": "Bengaluru, Karnataka, India",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn software engineering best practice here",
+                "Deliver good quality code in a reasonable timeline"
+            ],
+            "qualification": [
+                "Bachelor (S1) Degree in Computer Science or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer (we have people in our team who doesn't have Bachelor in computer science)",
+                "Experience and passion in web technologies styling, web performance and javascript (HTML5/CSS3/Javascript)",
+                "Passion and curiosity to explore new things and keep abreast with new front end technologies",
+                "Has high level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Proficiency in, at least, one programming language such as Java, PHP, Javascript, Python, Ruby, Rust, Go, Haskell.",
+                "Comfortable working in server code although not very deep",
+                "Has prior experience as a software developer or UX designer",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience in coding competitions",
+                "Understand how to create a code with browser compatibility in different platform (android, desktop, iOS)"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Data Engineer - India",
+            "location": "Bengaluru, Karnataka, India",
+            "description": [
+                "Work with different business and technical teams across the company to establish unified definitions, systems, and data governance for key metrics.",
+                "Build scalable backend solutions for automation of data processing;",
+                "Develop predictive/segmentation models to understand our customers' behavior and convert that to actionables that will drive product/marketing/sales key metrics;",
+                "Initiate and drive projects to completion with minimal guidance"
+            ],
+            "qualification": [
+                "Candidates must be able to understand the tradeoff between performance, simplicity, maintainability and timeline constraints when developing software solutions",
+                "Strong hands on experience in java, python is required. Must have shipped multiple projects with a major hands on contribution to each project.",
+                "Experience in Big data technologies: hadoop ecosystem (mapreduce, spark, kafka)",
+                "Experience in different storage technologies: OLTP like postgres, OLAP like redshift, Google bigquery, NoSQl like redis, hbase, kafka",
+                "Familiarity with machine learning algorithms and concepts (gradient descent, logistic regression) and software libraries like pandas, tensorflow, etc"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Software Quality Assurance - Jogja",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Understand task requirements,\u00a0create\u00a0blackbox test case documentation, run test case thoroughly.",
+                "Communicate with PM & Developers to ensure highly performing test phase in SDLC",
+                "Prevent any bug appearances on production by found them all in test phase",
+                "Occasionally review software to found bug and flaws",
+                "Report and investigate bugs",
+                "Proactively learn and help improve processes"
+            ],
+            "qualification": [
+                "Have experience in manual testing web or mobile apps",
+                "Familiarity with Javascript, HTML and tools like Postman to check and validate test results.",
+                "Enjoy doing thorough bug-seeking and case documentation",
+                "Smart working, creative, detail-oriented, and strong analytical\u00a0skills.",
+                "Good verbal and written communication skills.",
+                "Bachelor's degree in\u00a0Computer related major is a plus but not required",
+                "Understand whitebox testing and has prior experience creating it is a big plus but not required",
+                "Can create automated testing using Selenium or other methods is a big plus but not required",
+                "Have programming experience is a plus but not required"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Engineer - India",
+            "location": "Bengaluru, Karnataka, India",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn the software engineering best practices here",
+                "Deliver good quality code in a reasonable timeline"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java, Javascript, Python, Ruby, Rust, Go, Haske",
+                "High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Search & Personalization or Machine Learning"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Android Developer (Freshgraduate,Senior,Principal, & Senior Principal Position)",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Develop the Android application for Cermat",
+                "Contribute to all aspects of the Android development lifecycle including design, development, documentation, testing and operations",
+                "Create clean, easy to read code within reasonable timeline",
+                "Review each other's code and learn the software engineering best practices",
+                "This is a full time job and not an internship"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java, Javascript, Python, Ruby, Rust, Go, Haske",
+                "Experience in Android Native.",
+                "Experience in Android development is a must. Having developed an Android app from scratch to publication is a big plus"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "VOIP / IT Call Center Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Manage a team of IT staff to make sure requests on helpdesk are taken care within SLA and the tickets are resolved by the IT Team",
+                "Create and help socialize IT SOP and IT Governance",
+                "Improve IT to follow international recognized standard",
+                "Help in sourcing, recruiting and training IT Staff members",
+                "Has working technical knowledge of VoIP/IP telephony systems, \u00a0IP-PBXs, software, and hardware, including Asteriks and/or Elastix platforms.",
+                "Strong hands-on knowledge of the configuration and optimization of VoIP equipment, including switches, gateways, servers, telephones and other related equipment.",
+                "Strong hands-on knowledge of protocols associated with VoIP.",
+                "Strong understanding VoIP QoS issues and mitigation strategies.",
+                "Strong understanding of the fundamentals in network communications in relation to VoIP.",
+                "Working technical knowledge of Windows operating system.",
+                "Direct experience with switches and routers.",
+                "Expert in networking technologies.",
+                "Knowledge of cabling and wiring systems, design, and installation.",
+                "Ability to operate tools, components, peripherals, and testing accessories."
+            ],
+            "qualification": [
+                "4+ years experience in managing large scale call center and it infrastructure",
+                "Have experience managing at least 3 people for 1 year",
+                "S1 / D3 in telecommunications, computer science, or related field, and/or 3 years of direct work experience.",
+                "Any IT Certifications a plus."
+            ],
+            "posted-by": "Oby Sumampouw"
+        },
+        {
+            "title": "IOS Developer (Senior, Principal, & Senior Principal Position)",
+            "location": "Central Jakarta, Central Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Develop the iOS application for Cermati\u00a0",
+                "Contribute to all aspects of the IOS development lifecycle including design, development, documentation, testing and operations\u00a0",
+                "Create clean, easy to read code within reasonable timeline\u00a0",
+                "Review each other's code and learn the software engineering best practices\u00a0",
+                "This is a full time job and not an internship"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer\u00a0",
+                "Proficiency in, at least, one programming language such as Objective C, Swift, Java, Python, Javascript\u00a0",
+                "Experience in native iPhone and iPad development is a must.\u00a0",
+                "Having developed an IOS app from scratch to publication is a big plus"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Quality Assurance",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Create detailed, comprehensive and well-structured test plans and test cases.",
+                "Perform all types of testing to ensure overall quality of the Product like user interface testing, functionality testing, performance testing, regression testing, integration testing, etc.",
+                "Create & manage bug reports and communicate with the team",
+                "Collaborate with Engineering, UI/UX, Infrastructure and Product Management teams.",
+                "Be an active part of analysis, design and planning activities.",
+                "Be an enthusiastic advocate for good Agile practices.",
+                "Eager to learn and grow as a professional."
+            ],
+            "qualification": [
+                "Bachelor's degree in Computer Science or Information Systems or other similar fields",
+                "Minimum 1 year experience in Quality Assurance (Manual or automation)",
+                "Experience in working with Web as well as Mobile applications (iOS & Android)",
+                "Experience in API testing using tools like Postman, Jmeter, SoapUI, etc.",
+                "Experience related to HTTP debugging on web and mobile based application (iOS & Android) using Developer tools/console.",
+                "High level of comfort in using SQL for in-depth data testing.",
+                "Experience in using test case and bug management tools like Phabricator, Test Rail, etc.",
+                "Experience in working in Agile process methodology.",
+                "Good interpersonal and communication skills. Should be comfortable with written and spoken English.",
+                "Good analytical and problem-solving skills.",
+                "Able to work independently or with limited assistance.",
+                "Experience in programming languages like NodeJS, Java, Python, Ruby, etc is a plus but not required.",
+                "Experience in Automation Testing using frameworks like Appium, Selenium, TestNG, Cucumber, TestCafe, NightwatchJS, etc. is a plus but not required.",
+                "Experience in CI/CD process using Jenkins, Gitlab, etc. is a plus but not required."
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Engineering Management (Lead, Manager, Head, VP level)",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Lead and mentor junior engineers to develop their skills and grow their careers at Cermat",
+                "Understand Cermati's business and improve cermati's business with the help of your engineering team",
+                "Hire and help the company find new engineering talent",
+                "Responsible for managing, growing your team as well as your team member's promotions, demotions, hiring, firing, etc.",
+                "Ensure that your team is happy, motivated and productive at Cermat",
+                "Work with your team to build features, to maintain old code, improve and clean the code that your team owns",
+                "Contribute to design decision and review each other's code",
+                "Make sure the code that your team owns will be available 24/7 and you're willing to troubleshoot and maintain the services that your team owns",
+                "Work together with product manager to set the feature specs and set the target deadline.",
+                "Drive the projects so you can meet the deadline with your team"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java, Javascript, Python, Ruby, Rust, Go, Haske",
+                "Has high level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Proven record of good mentorship and leadership in delivering high quality projects",
+                "At least 2 years experience working in a good tech oriented company (or if you don't have it, you can prove to us that you can gain the respect from a team of smart engineers and you can lead them to greatness)",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Search & Personalization or Machine Learning"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Software Engineer In Test (Senior, Principal, & Senior Principal Position)",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Create automated testing that is fast, scalable, easily monitored and maintained",
+                "Make sure to increase the test coverage of our code using library like istanbul.js",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn the software engineering best practices here",
+                "Design a system to improve the quality of our code and automate the mundane stuff like auto-rollback if test is failing. Or Auto push code to production.\u00a0",
+                "This is a full time job and not an internship position"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java, Javascript, Python, Ruby, Rust, Go, Haske",
+                "High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Selenium, Nightwatch, CasperJS"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Frontend Developer (Freshgraduate, Senior, Principal, & Senior Principal Position)",
+            "location": "Central Jakarta, Central Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn software engineering best practice here",
+                "Deliver good quality code in a reasonable timeline",
+                "This is a full time job and not an internship position"
+            ],
+            "qualification": [
+                "Bachelor (S1) Degree in Computer Science or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer (we have people in our team who doesn't have Bachelor in computer science)",
+                "Experience and passion in web technologies styling, web performance and javascript (HTML5/CSS3/Javascript)",
+                "Passion and curiosity to explore new things and keep abreast with new front end technologies",
+                "Has high level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Proficiency in, at least, one programming language such as Java, PHP, Javascript, Python, Ruby, Rust, Go, Haskell.",
+                "Comfortable working in server code although not very deep",
+                "Has prior experience as a software developer or UX designer",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience in coding competitions",
+                "Understand how to create a code with browser compatibility in different platform (android, desktop, iOS)"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Front-End Engineer - Jogja",
+            "location": "Yogyakarta, Jogja, Indonesia",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations\u00a0",
+                "Write clean and testable code, as well as optimal code\u00a0",
+                "Work with your team to maintain and improve software quality\u00a0",
+                "Doing code review as part of the development lifecycle according to coding standards and current known best practices\u00a0",
+                "Deliver good quality code in a reasonable timeline"
+            ],
+            "qualification": [
+                "S1 degree with good algorithm & problem solving skills\u00a0",
+                "Excellent knowledge of web technologies such as HTML, CSS, and JavaScript",
+                "Experience with one of the following libraries / tools: React, Angular, Vue",
+                "High level understanding on the networking and security fundamentals\u00a0",
+                "Minimum of 2+ years of experience in software development and / or participating in coding competitions\u00a0",
+                "Good understanding on how to write performant & optimal front-end codes",
+                "Comfortable with UNIX / Linux environment"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Engineer - Jogja",
+            "location": "Yogyakarta, Jogja, Indonesia",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Write clean and testable code, as well as optimal code",
+                "Work with your team to maintain and improve software quality",
+                "Doing code review as part of the development lifecycle according to coding standards and current known best practices",
+                "Deliver good quality code in a reasonable timeline\u00a0",
+                "Write tests with at least 90% of test coverage"
+            ],
+            "qualification": [
+                "S1 degree with good algorithm & problem solving skills.",
+                "Knowledge on how to build scalable system as well as maintainable system\u00a0",
+                "Excellent understanding with at least one of the following languages: NodeJS, Golang, Java, Python\u00a0",
+                "High level understanding on the networking and security fundamentals",
+                "Minimum of 2+ years of experience in software development and / or participating in coding competitions\u00a0",
+                "Good understanding on how to build efficient distributed systems\u00a0",
+                "Excellent understanding in NodeJS, MongoDB, PostgreSQL and know how to optimise javascript code as well as SQL query.\u00a0",
+                "Comfortable with UNIX / Linux environment\u00a0",
+                "Experience in managing infrastructure and services in GCP"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Software Engineer (Freshgraduate, Senior, Principal, Architect Position)",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Contribute to all aspects of the software development lifecycle including design, development, documentation, testing and operations",
+                "Create code that's easy to read",
+                "Work with your team to maintain, improve and clean your code",
+                "Review each other's code and learn the software engineering best practices here",
+                "Deliver good quality code in a reasonable timeline",
+                "This is a full time job and not an internship position"
+            ],
+            "qualification": [
+                "Bachelor\u2019s Degree (S1) in Computer Science or related field. Or if you don't have a Bachelor's degree, prove to us that you can code at the same level as other software engineer",
+                "Proficiency in, at least, one programming language such as Java, Javascript, Python, Ruby, Rust, Go, Haske",
+                "High level understanding on how the internet works (HTTP, DNS, IP, Server-client interaction, etc)",
+                "Experience building scalable web services",
+                "Experience in coding competitions",
+                "Experience with AWS or other PAAS.",
+                "Experience with Linux",
+                "Experience with basic tooling like git, browser debugging, bash scripting, etc.",
+                "Experience with Search & Personalization or Machine Learning"
+            ],
+            "posted-by": "Aldo Winata"
+        }
+    ],
+    "Marketing & Content": [
+        {
+            "title": "Business Intelligence Analyst",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Provide support for the development of business intelligence solutions.",
+                "Critically analyze internal data, provide insights and present findings to internal users.",
+                "Work on complex cross-functional IT and business intelligence solutions.",
+                "Provide timely reporting and work with business analysts to extract and present insights on operational performance to top management.",
+                "Manage the reporting and analytics platform(s) to ensure that scheduled jobs are successfully run and analytics data aligns to timeliness / completeness requirements",
+                "Be part of a highly entrepreneurial and international team and take part in the creating of a leading internet venture with a focus on advancing financial technology.",
+                "Managing the reporting and marketing analytics platform(s) to ensure web analytics data aligns to timeliness / completeness requirements.",
+                "Working with the tech team to ensure that databases feeding the reporting platforms optimize"
+            ],
+            "qualification": [
+                "Bachelor's Degree (S1) in Information System, Computer Science, Math, Statistics or related field.",
+                "Good command of SQL, have the ability to write advanced DB queries in preferred languages (SQL as the minimum requirement, able to use Python/Java/Javascript is a plus).",
+                "Ability to quickly disseminate data to find key trends, as well as ability to dive deep and mine the data behind these.",
+                "Comfortable working with datasets containing millions of rows and creating complex visualizations from raw data in a live dashboard environment.",
+                "Experience working as part of a data analytics team in an analytical and development capacity preferred is a plus.",
+                "Excellent written and verbal communication skills.",
+                "Experience working with analytical tools (R, Hadoop) is a plus",
+                "2-3 years experience in MIS or similar role is preferable. Fresh graduates from reputable university are welcome.",
+                "Ability to work well and deliver under pressure."
+            ],
+            "posted-by": "Regina Olivia"
+        }
+    ],
+    "Product": [
+        {
+            "title": "Product Manager / Product Owner (Entry, Mid and Senior Levels Available)",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Research, analyze, define product features and you create metrics to measure the impact of your product to the company",
+                "Be the primary driver of your product's planning and execution",
+                "Write the specs of new features and enhancements",
+                "Come up with product road map and rally other people to join your cause to realize your product vision. You are expected to be able to prototype your vision to convince others if necessary.",
+                "Work with engineers, designers, ops, sales, legal and even external partners to make things happen"
+            ],
+            "qualification": [
+                "Minimum Bachelor\u2019s Degree (S1)",
+                "Passionate in data-driven product development and has excellent analytical skills to process the data",
+                "Detail oriented",
+                "Strong planner and very organized",
+                "A strong drive to make things happen",
+                "Solid oral and written communications skills",
+                "Has prior experience as a product manager / software developer / UX designer / project manager",
+                "Proficiency in, at least, one programming language such as Java, PHP, Javascript, Python, Ruby, Rust, Go, Haske",
+                "Has prior experience in agile product development",
+                "Has advanced degrees i.e. Masters, Phd, MBA, etc"
+            ],
+            "posted-by": "Regina Olivia"
+        },
+        {
+            "title": "Senior UI/UX Designer",
+            "location": "Central Jakarta, Central Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Plan, think and design how user interact with our product (Start from wireframing into high fidelity mockup design)\u00a0",
+                "Design elements & assets based on thorough understanding of the users\u00a0",
+                "Create design accross multiples devices standard (Desktop, Android, iOS)"
+            ],
+            "qualification": [
+                "Familiar using Sketch (Mac), Adobe Creative Suite (Ai, Ps, Xd), Zeplin, prototyping tools (Marvel/Invision)\u00a0",
+                "Bachelor (S1) in computer science (Human Computer Interaction), graphic design or related fields.\u00a0",
+                "Pixel perfect\u00a0",
+                "Good critical thinking\u00a0",
+                "Have a good design taste and keep up with newest design trends\u00a0",
+                "Have UI/UX portfolio\u00a0",
+                "Solid oral and written communication\u00a0",
+                "Has experience in setting up usability testing and analyzing data\u00a0",
+                "Has experience in creating mockup in HTML / CSS"
+            ],
+            "posted-by": "Aldo Winata"
+        }
+    ],
+    "Business Development": [
+        {
+            "title": "Partner Success Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [],
+            "qualification": null,
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Business Development Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "In charge of creating partnerships with e-commerce companies that can benefit Cermat",
+                "Have a deep understanding of both our product and the partners' product in order to create a successful partnership",
+                "Prepare an interesting and accurate customized presentation to be presented to potential partners",
+                "Keep a great ongoing relationships with current partners and offer new ways to grow the partnership",
+                "Identify potential opportunities, create innovative strategies, and implement them",
+                "Researching ways to increase the value of our products for our clients be it missing features, improvements, client feedback, etc",
+                "Collaborate with the product team to create an effective strategy"
+            ],
+            "qualification": [
+                "An independent and result-driven individual with the passion for networking and is able to maintain a good relationship with partners especially with e-commerce Company",
+                "A smart individual, with superb interpersonal and communication sk",
+                "Someone who is able to work with little guidance yet produce creative initiatives",
+                "Vast network in e-commerce is preferred",
+                "Individuals with at least 2 (two) years of relevant work experience is preferred"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Relationship Manager - Funding",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Grow portfolio of funding customers, and maintain the relationship with assigned clients.",
+                "Attract new investment customers and educate new investors about investment opportunities",
+                "Manage day-to-day projects in a timely manner, ensuring that deliverable are met within the accuracy",
+                "Proactively implement strategies to monitor and enhance existing and new relationships",
+                "Target oriented and can work in a team to achieve team target\u00a0",
+                "Coordinate with other departments and various levels of management regarding transaction issues, credit risk reporting issues, including investigating data issues, and resolving reporting errors"
+            ],
+            "qualification": [
+                "2 years experience in Bank / Insurances / Investments / Financial Services, exposure to managing investment fund on Time Deposit / Mutual Fund and Investment account\u00a0",
+                "Minimum Bachelor Degree, Tier 1 University",
+                "Outstanding analytical skills, strong and effective communication skills, Interpersonal skills/networking, as well as results oriented",
+                "Specific knowledge of the industry, including market, competitors and the main opportunities of the sector",
+                "Deep knowledge of financial products such as time deposit, mutual fund, Unit Link / ULIP and stock",
+                "Able to create and sustain good personal contacts with clients, within the team and among the bank"
+            ],
+            "posted-by": "Regina Olivia"
+        },
+        {
+            "title": "Head of Insurance Product Marketplace",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Oversee the business development and operation team related to insurance products both general and life insurance such as auto insurance, health insurance, travel insurance",
+                "Prospecting and sourcing new important general and life insurance clients and partnerships for Cermati.com",
+                "Ensuring that new relationships are on-boarded smoothly to the platform",
+                "Manage and deepen existing relationships to improve product offerings and improve integration.",
+                "Analyse client's performance on Cermati.com platform and having regular interactions with the PIC from client side",
+                "Increase revenue per client by keeping a keen eye on profitability"
+            ],
+            "qualification": [
+                "Experienced in sales, business development and operations professionals in insurance industry or having consulting background for FIs for 5 years or more",
+                "Have experience in interacting with VP and Director level business leaders and managing strategic client relationship for the organisation",
+                "Has large network in the insurance, insurance brokerage and corporate business",
+                "Previous experience in an established insurance brokerage is a plus",
+                "Strong communication, negotiation and analytical skills",
+                "AAAIK / AAIK Certification is major a plus.\u00a0"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Business Development Manager - Insurance",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "In charge of creating partnerships with E-Commerce, Travel, Hospitality, Gadget Supplier\u00a0Companies that can benefit Cermat",
+                "Have a deep understanding of both our product and the partners' product in order to create a successful partnership",
+                "Prepare an interesting and accurate customized presentation to be presented to potential partners",
+                "Keep a great ongoing relationships with current partners and offer new ways to grow the partnership",
+                "Identify potential opportunities, create innovative strategies, and implement them",
+                "Researching ways to increase the value of our products for our clients be it missing features, improvements, client feedback, etc",
+                "Collaborate with the product team to create an effective strategy"
+            ],
+            "qualification": null,
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Head of Financial Product Marketplace - Bank and Multifinance",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Oversee the business development and operation team related to banking products\u00a0",
+                "Prospecting and sourcing new important clients and partnerships for Cermati.com from the banking and multi finance industry",
+                "Ensuring that new relationships are on-boarded smoothly to the platform",
+                "Manage and deepen existing relationships to improve product offerings and improve integration",
+                "Analyse client's performance on Cermati.com platform and having regular interactions with the PIC from client side",
+                "Increase revenue per client by keeping a keen eye on profitability"
+            ],
+            "qualification": [
+                "Experienced in sales, business development and operations professionals in banking industry or having consulting background for FIs for 5 years or more",
+                "Have experience in interacting with VP and Director level business leaders and managing strategic client relationship for the organisation",
+                "Previous account management experience is a plus",
+                "Strong communication, negotiation and analytical skills"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Insurance Technical Manager",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "Design customized insurance products according to client requirements & communicate it to the insurance partner, product manager, finance, and another stakeholders.\u00a0",
+                "Work together with business development to meet and analyse partner's needs",
+                "Accompany business development when meeting with a prospect client and help to find out how insurance can be the client's marketing strategy / added value.\u00a0",
+                "Provide daily and weekly reporting to Chief Business Officer"
+            ],
+            "qualification": [
+                "Minimum 3 years of experience in insurance industry",
+                "Experienced in general insurance industry, especially business/product",
+                "Experienced in\u00a0developing general insurance product\u00a0",
+                "Excellent written and verbal communication skills",
+                "Understand all aspects of a successful general insurance product throughout its life cycle",
+                "Great understanding of trend, recent news, ins and outs about insurance and fintech is a plus",
+                "Able to work independently or in a team"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Insurance Employee Benefit Account Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Providing existing business and generate new business opportunities by actively contacting prospects, scheduling appointments, making sales presentations and closing new EB business accounts.",
+                "Develop prospecting strategies to increase opportunities for new business.",
+                "Build and maintain client relationships and provide oversight to account activity.",
+                "Working closely with insurance partner for handling client claim settlement"
+            ],
+            "qualification": [
+                "Male/Female Max 35 Years Old",
+                "Must have minimum 2 \u2013 3 years as Employee Benefit Account Manager experience or equivalent in Insurance Company or Brokers. Additional insurance education or designation preferred",
+                "Must have experience for maintaining employee benefit on large company",
+                "Must Have deep knowledge of Employee Benefit product",
+                "Must be proficient in Ms Office and preparing presentation",
+                "Must be highly organised and work well in team environment. Must have excellent interpersonal relationship skills",
+                "Ability to assess and maintain multiple priorities while managing one or more books of business"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        }
+    ],
+    "Business Operations": [
+        {
+            "title": "Field Collection Coordinator/TL",
+            "location": "Bandung, Bandung City, West Java, Indonesia",
+            "description": [
+                "Mengelola dan memonitoring kinerja Collection dan Recovery untuk memastikan pencapaian target yang telah ditentukan.",
+                "Memberikan laporan, informasi dan feedback terhadap atasan terhadap pencapaian target Deliquency, Moving AR secara harian, mingguan dan bulanan.",
+                "Membantu kolektor dalam melakukan upaya penagihan terhadap customer yang bersifat kasus.",
+                "Mensupervisi tim serta memberikan coaching bagi Field Collector.",
+                "Memberikan penanganan terhadap Field Collector yang performanya menurun.",
+                "Monitoring hasil kunjungan dan jumlah kunjungan Field Collector",
+                "Melaporkan dan mendiskusikan pencapaian target, masalah dan kesulitan yang dialami kepada atasan.",
+                "Membagi wilayah penanganan untuk masing-masing collector.",
+                "Mengelola dan monitoring pembayaran konsumen.",
+                "Memberikan analisa penanganan konsumen dan melaporkannya ke atasan.",
+                "Melakukan review dan memberikan persetujuan terhadap rencana kunjungan.",
+                "Melaporkan dan mendiskusikan pencapaian target cabang, masalah dan kesulitan yang dialami kepada atasan."
+            ],
+            "qualification": [
+                "Minimal pengalaman 3 tahun di bank / leasing dan atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)",
+                "Minimal pendidikan D3",
+                "Lebih diutamakan bagi yang memiliki pengalaman sebagai supervisor/koordinator Field Collector",
+                "Memiliki kendaraan bermotor dan minimal SIM C (SIM A lebih disukai)",
+                "Mempunyai kemampuan komunikasi dan negosasi yang baik serta memiliki leadership yang baik, jujur, loyal, serta mampu bekerja dengan target",
+                "Mampu bekerja keras dan dapat bekerja sama dalam tim",
+                "Menyukai pekerjaan lapangan",
+                "Mempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminan",
+                "Mampu mengoperasikan Microsoft Office"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Operation Manager",
+            "location": "Central Jakarta, Central Jakarta City, Jakarta, Indonesia",
+            "description": null,
+            "qualification": null,
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Field Collection",
+            "location": "West Jakarta, Indonesia",
+            "description": [
+                "Mengunjungi debitur dan melakukan pengiriman Surat Peringatan (SP) dalam masa tunggakan > 20 hari untuk melakukan validasi kondisi, analisa dan penagihan pembayaran kewajiban debitor yang belum diselesaikan.",
+                "Menegosiasikan opsi pembayaran yang sesuai kepada nasabah",
+                "Memonitor janji bayar debitur sesuai dengan masa tunggakan dan menagih kembali sesuai janji bayar.",
+                "Menganalisa hasil penanganan dan melakukan tindakan sesuai dengan ruang lingkup/wilayah kerjanya dan apabila diperlukan.",
+                "Mencari keberadaan pelanggan apabila tidak dapat ditemui baik di rumah maupun kantor",
+                "Memastikan semua data pelanggan benar termasuk nomor telepon dan alamat",
+                "Melaporkan dan mendiskusikan dengan atasan mengenai hasil kunjungan/penanganan. Membuat catatan atas setiap aktivitas penagihan ke dalam collection system.",
+                "Melakukan koordinasi dengan pihak internal collection maupun unit terkait sehubungan dengan penanganan debitor\u00a0"
+            ],
+            "qualification": [
+                "Minimal pengalaman 2 tahun di bank dan/atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)",
+                "Memiliki kendaraan bermotor dan minimal SIM C",
+                "Minimal SMU atau sederajat",
+                "Mempunyai kemampuan komunikasi dan negosasi yang baik",
+                "Mempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminan",
+                "Memiliki persistensi dan orientasi yang kuat terhadap Pencapaian Target",
+                "Mampu bekerja sama dalam team dengan interpersonal skill yang baik",
+                "Familiar dengan penggunaan Aplikasi Komputer dan Microsoft Office"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Anti Fraud Analyst",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [
+                "As part of Credit Risk Team to minimize risk, detect and prevent fraud",
+                "Manage and responsible for the overall Anti-fraud & investigation Process",
+                "Liaise with Superior (Head of Credit Ops)",
+                "Responsible to maintain daily and weekly report",
+                "Develops fraud model prevention initiatives",
+                "Recovers fraud losses",
+                "Coordinate collaborations with other departments.",
+                "Monitoring and developing team performance and coaching if needed"
+            ],
+            "qualification": [
+                "Male/Female",
+                "Age max. 35 years\u2019 old",
+                "Bachelor degree any major",
+                "Minimum experience 3 years as fraud analyst, internal audit, risk policy in bank/multifinance/fintech preferably have experience in personal loan, retail loan, credit card",
+                "Have experience in data handling and processing",
+                "Have experience in data analysis",
+                "Have analytical background (knowledge of basic analytical tools such as SQL, Python, R, SAS, SPSS)",
+                "Have honest attitude, conscientious and responsible."
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Quality Assurance Operation Team Leader",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Supervise QA Team in doing evaluation, feedback and other QA task",
+                "Lead calibration meeting",
+                "Capacity Team",
+                "Create and Analyze QA result/report",
+                "Team Coaching",
+                "Detail, accurate"
+            ],
+            "qualification": [
+                "Experienced as TL (call center/collection/QA) for 1 year",
+                "Understand microsoft office (excell, word, presentation)",
+                "Communication sk",
+                "Leadership sk"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Desk Collection",
+            "location": "Jakarta, Indonesia",
+            "description": [],
+            "qualification": [],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Quality Assurance Operation",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Evaluate Team Operation as quality assurance",
+                "Feedback",
+                "Join calibration meeting",
+                "Create report result evaluation"
+            ],
+            "qualification": [
+                "Experienced in Call Center (call center/collection/QA) for 1 year",
+                "Understand microsoft excell (excell, office)",
+                "Communication Sk",
+                "Deta"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Telemarketing",
+            "location": "Jakarta Barat, DKI Jakarta, Indonesia",
+            "description": [
+                "Menelepon dan verifikasi data ke customer",
+                "Menawarkan produk-produk finansial via telepon",
+                "Mengisi formulir dengan menggunakan program komputer yang tersedia",
+                "Memastikan aplikasi terisi dengan lengkap",
+                "Memastikan customer yang mendaftar ditindaklanjuti dengan cepat dan tanggap"
+            ],
+            "qualification": [
+                "Umur 18-35 Tahun",
+                "Minimal Pendidikan SMA/Sederajat",
+                "Memiliki kemauan tinggi untuk mencapai target (target-oriented person)",
+                "Mampu berkomunikasi dengan menggunakan Bahasa Indonesia yang baik dan benar",
+                "Mampu mengoperasikan komputer dengan baik",
+                "Tidak sedang kuliah",
+                "Diutamakan domisili Jakarta Barat (Bersedia ditempatkan area Tomang dan Kedoya, Jakarta Barat)",
+                "Cepat belajar dan menerima instruksi dengan baik",
+                "Rajin, disiplin, dan bertanggung jawab atas pekerjaannya"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Team Leader Desk Collection",
+            "location": "West Jakarta, Jakarta, Indonesia",
+            "description": [
+                "Coordinate collection activities of unsecured products, manage flow rates to prevent accounts from flowing down to charge off and minimize net credit losses",
+                "Recruitment, training and performance management of the collection team to ensure good productivity",
+                "Process-reengineering of collection processes to improve productivity",
+                "Capacity tracking, management and planning to ensure adequate collection resources for the section all the time",
+                "Manage and optimize collection cost",
+                "Prepare, document and monitor strategy effectiveness and custody of the collection strategy/procedure",
+                "Tracking and evaluating the effectiveness of all collection strategies. Design and conduct champion & challenger tests of all collection strategies",
+                "Prepares regular and customized, in-depth reports and information summarizing various aspects of unit(s) activities. Interprets important aspects of reports for management."
+            ],
+            "qualification": [
+                "Bachelor's degree\u00a0",
+                "5 years of working experience in Collection and 1-2 years of working experience as Desk Collection Supervisor/Manager",
+                "Strong understanding of collections activities and process.\u00a0",
+                "Sound people supervisory/managerial skills.",
+                "Excellent problem-solving skills.\u00a0",
+                "Advanced Communication skills, both verbal and written.",
+                "Adequate analytical skills and has experience in developing collection reports to measure collection productivity/performance.",
+                "Experience with collection strategy to achieve both short term and long term desirable result/portfolio quality.\u00a0",
+                "Ms-office skills."
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Team Leader Credit Analyst",
+            "location": "West Jakarta, Jakarta, Indonesia",
+            "description": [
+                "Conduct analysis for prospective clients, including financial condition and financial statement trends",
+                "Check for deduplication, additional order/repeat order/black list",
+                "Conduct creditworthiness analysis and provide recommendations for loan applications",
+                "Verify all information and supporting documents provided by prospective clients",
+                "Carry out loan policies according to the prevailing SOP"
+            ],
+            "qualification": [
+                "Maximum 32 years old",
+                "Candidate must possess minimum Bachelor Degree in any field",
+                "Min 2\u00a0year of working experience in Credit Analyst in Banking or financial services",
+                "Fresh graduates from reputable university are encouraged to apply. Min GPA 3.0",
+                "Able to operate computer Microsoft Office (Word, Excel, PowerPoint, etc)",
+                "Good analytical thinking, problem solving, high accuracy and detailed oriented",
+                "Have a good individual attitude, willing to learn can work individual or team",
+                "Willing to work with deadlines and target oriented"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Credit Operation Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Manage and responsible for the overall Credit Operations of the company",
+                "Liaise with Superior (Risk Management Head) as well as other top management",
+                "Ensure that the company runs with legality and conformity to established regulations",
+                "Review regularly the efficiency of product, process, policies and people through data driven analysis, and apply improvements",
+                "Collaborate with various functions (Product, Engineering, HR, Finance, Marketing, Collection, Risk Modelling, and Business Intelligence) to boost efficiency and productivity",
+                "Review and adjust operational budgets to balance between cost vs credit loss (as well as company profitability)",
+                "Manage customer support processes and manage them to enhance customer satisfaction",
+                "Responsible for staffing, resource allocation, KPI & Target setting and measurements. Ensure capacity of credit operation is planned well to meet the growth target of the company."
+            ],
+            "qualification": [
+                "Hold Bachelor Degree (S1) from Reputable University",
+                "Have great persistence and endurance to meet operation target,",
+                "Highly self-managed & motivated person, able to perfectly multi-task, have a high standard and excited to work in a collaborative environment",
+                "At least 3 years proven experience as Operation Manager or equivalent position.",
+                "At least 3 years proven excellent organizational and leadership ability",
+                "Outstanding communication &\u00a0people management skill.",
+                "Sound knowledge of data analysis and performance/ operations metrics.",
+                "Preferably have experience in managing consumer lending products (e.g. Credit Card, KTA, Motorcycle Loan, Consumer Durables Loan, Payday Loan) or have experience in Fin-tech Company.",
+                "Excellent ability to make decisions, take actions, and make things happen."
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Head of Operation",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Manage overall operation on the call center and logistics",
+                "Strategically hire, train, and manage Operation teams",
+                "Implement and refine \u00a0process and procedures to improve overall operations and meet SLA\u2019s",
+                "Partner with product team to determine how technology help to streamline day to day operation.",
+                "Previous experience managing and optimizing call center and logistics is highly\u00a0proffered.\u00a0",
+                "Analyze key operations metrics to determine KPI and SLA for operation team.\u00a0\u00a0"
+            ],
+            "qualification": [
+                "5+ years of Operation\u00a0Excellence",
+                "Experience hiring and developing a telesales and logistic team.",
+                "Experience coordinating projects &\u00a0campaigns\u00a0across teams.\u00a0",
+                "Ability to multitask and execute in a fast-paced, team-oriented environment",
+                "Strong analytical skills. Proven ability to review detailed data and produce meaningful analysis",
+                "Strong problem solving skills and ability to identify root causes",
+                "Working knowledge of medium-large operations",
+                "Bonus Points: Experience in managing large scale operation teams either in e-commerce or call center",
+                "Preferable comes from consulting company"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "CEO Office - Special Projects",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Be the gatekeeper of the CEO\u2019s office and continually monitor the flow of information going in and out to the CEO\u2019s office",
+                "Make sure that strategic projects and policies are followed up and completed in a timely manner ensuring high quality delivery",
+                "Oversees and follows-up with staff on the timely and quality execution of planned activities related to strategic projects and decisions taken by the CEO",
+                "Carry out research and relevant studies on topics related to business, product expansion, company expansion, competitive analysis, policy and others as required and prepare reports on findings",
+                "Reviews and comments on materials and documents related to the execution of high profile strategic projects and programs being presented to the CEO thus ensuring accuracy and quality",
+                "Maintain accurate and up to date company data, reporting and communications",
+                "Assist CEO in communicating\u00a0in writing as well as in person from the CEO\u2019s office to both internal staff and external high level officials and business executives",
+                "Be the gatekeeper of company policies, procedures and methods of operation to ensure compliance across the company"
+            ],
+            "qualification": [
+                "Minimum of 3 years in corporate planning and project management",
+                "Ability to lead cross-functional teams around strategic initiatives.",
+                "Degree in Engineering, Business or Finance; MBA or other Graduate degree preferred.",
+                "Experience in Management Consulting preferred.",
+                "Proven business writing skills & analysis skills.",
+                "Strong PowerPoint and Excel skills.",
+                "Demonstrated organizational and team work skills.",
+                "Strong communication skills (verbal and written) with the aptitude to communicate effectively in both individual and group settings regardless of audience.",
+                "Able to think creatively, identify, and build support for innovative/outside-the-box solutions."
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Retail Credit Risk Analytics & Modelling Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Build credit risk modelling, analytics and reporting for retail customer\u2022 Strategically hire, train, and manage risk teams",
+                "Partner with product team to determine how technology help to detect and reduce risk.",
+                "Previous experience building unsecured lending credit risk modelling is highly proffered.",
+                "Analyze key metrics to determine risk.",
+                "Mentoring and supporting junior members of the team will be a key part of the role, in both technical data manipulation skills and documentation delivery.",
+                "Maintain the credit model platform which is utilised by the team and expected to provide advice and guidance on ongoing efficiency gains and new credit modelling methodology."
+            ],
+            "qualification": [
+                "Have an undergraduate degree in an analytical discipline (e.g. maths, statistics), however other disciplines will be considered",
+                "Have 3+ experience of working in credit / risk modelling for retail customers especially unsecured lending in bank or non bank",
+                "Have significant experience of credit modelling using statistic tool such as R, Phyton SAS, SQL analytical tools or advanced MS Excel skills",
+                "Have strong verbal and written skills that ensure you can explain technical concepts to less technically focused colleagues and produce suitable documentation",
+                "Be organised, approachable, confident in engaging with stakeholders at all levels and a keen attention to deta",
+                "Experience of reporting in a Financial environment.",
+                "Experience and/or understanding of: data validation and verification techniques, advanced data manipulation techniques, development and production lifecycles, error handling, and automated reporting generation."
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "Telesales Supervisor",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Manage day to day operation on the call center and logistics",
+                "Hire, train, and monitor telesales agents",
+                "Implement procedures to improve overall operations and meet SLA\u2019s and sales target",
+                "Previous experience managing and optimizing call center \u00a0",
+                "Analyze key operations metrics to determine KPI and SLA for telesales agents"
+            ],
+            "qualification": [
+                "3+ years of \u00a0Telesales Experience",
+                "Experience in monitoring telesales and logistic team.",
+                "Ability to multitask and execute in a fast-paced, team-oriented and sales driven environment",
+                "Working knowledge of managing telesales team using CRM & Telesales system\u00a0"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Telesales Assistant Manager - Bank / Insurance",
+            "location": "West Jakarta, Indonesia",
+            "description": [
+                "Manage overall operation on the call center and logistics",
+                "Strategically hire, train, and manage Operation teams",
+                "Implement and refine \u00a0process and procedures to improve overall operations and meet SLA\u2019s",
+                "Partner with product team to determine how technology help to streamline day to day operation.",
+                "Previous experience managing and optimizing call center and logistics is highly\u00a0proffered.\u00a0",
+                "Analyze key operations metrics to determine KPI and SLA for operation team.\u00a0\u00a0"
+            ],
+            "qualification": [
+                "5+ years of \u00a0Telesales Experience in Bank or Insurance",
+                "Experience hiring and developing a telesales and logistic team.",
+                "Experience coordinating projects &\u00a0campaigns\u00a0across teams.\u00a0",
+                "Ability to multitask and execute in a fast-paced, team-oriented environment",
+                "Strong analytical skills. Proven ability to review detailed data and produce meaningful analysis",
+                "Strong problem solving skills and ability identify root causes",
+                "Working knowledge of medium-large operations in bank or insurance call center\u00a0",
+                "Bonus Points: Experience in managing large scale operation teams either in bank or insurance call center"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Field Collection-Surabaya",
+            "location": "Surabaya, Surabaya City, East Java, Indonesia",
+            "description": [
+                "Mengunjungi debitur dan melakukan pengiriman Surat Peringatan (SP) dalam masa tunggakan > 20 hari untuk melakukan validasi kondisi, analisa dan penagihan pembayaran kewajiban debitor yang belum diselesaikan.",
+                "Menegosiasikan opsi pembayaran yang sesuai kepada nasabah",
+                "Memonitor janji bayar debitur sesuai dengan masa tunggakan dan menagih kembali sesuai janji bayar.",
+                "Menganalisa hasil penanganan dan melakukan tindakan sesuai dengan ruang lingkup/wilayah kerjanya dan apabila diperlukan.",
+                "Mencari keberadaan pelanggan apabila tidak dapat ditemui baik di rumah maupun kantor",
+                "Memastikan semua data pelanggan benar termasuk nomor telepon dan alamat",
+                "Melaporkan dan mendiskusikan dengan atasan mengenai hasil kunjungan/penanganan. Membuat catatan atas setiap aktivitas penagihan ke dalam collection system.",
+                "Melakukan koordinasi dengan pihak internal collection maupun unit terkait sehubungan dengan penanganan debitor\u00a0"
+            ],
+            "qualification": [
+                "Minimal pengalaman 2 tahun di bank dan/atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)",
+                "Memiliki kendaraan bermotor dan minimal SIM C",
+                "Minimal SMU atau sederajat",
+                "Mempunyai kemampuan komunikasi dan negosasi yang baik",
+                "Mempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminan",
+                "Memiliki persistensi dan orientasi yang kuat terhadap Pencapaian Target",
+                "Mampu bekerja sama dalam team dengan interpersonal skill yang baik",
+                "Familiar dengan penggunaan Aplikasi Komputer dan Microsoft Office"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Operations Strategist",
+            "location": "West Jakarta, Kebon Jeruk, West Jakarta City, Jakarta, Indonesia",
+            "description": [],
+            "qualification": [],
+            "posted-by": null
+        },
+        {
+            "title": "Field Collection-Bandung",
+            "location": "Bandung, Bandung City, West Java, Indonesia",
+            "description": [
+                "Mengunjungi debitur dan melakukan pengiriman Surat Peringatan (SP) dalam masa tunggakan > 20 hari untuk melakukan validasi kondisi, analisa dan penagihan pembayaran kewajiban debitor yang belum diselesaikan.",
+                "Menegosiasikan opsi pembayaran yang sesuai kepada nasabah",
+                "Memonitor janji bayar debitur sesuai dengan masa tunggakan dan menagih kembali sesuai janji bayar.",
+                "Menganalisa hasil penanganan dan melakukan tindakan sesuai dengan ruang lingkup/wilayah kerjanya dan apabila diperlukan.",
+                "Mencari keberadaan pelanggan apabila tidak dapat ditemui baik di rumah maupun kantor",
+                "Memastikan semua data pelanggan benar termasuk nomor telepon dan alamat",
+                "Melaporkan dan mendiskusikan dengan atasan mengenai hasil kunjungan/penanganan. Membuat catatan atas setiap aktivitas penagihan ke dalam collection system.",
+                "Melakukan koordinasi dengan pihak internal collection maupun unit terkait sehubungan dengan penanganan debitor\u00a0"
+            ],
+            "qualification": [
+                "Minimal pengalaman 2 tahun di bank dan/atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)",
+                "Memiliki kendaraan bermotor dan minimal SIM C",
+                "Minimal SMU atau sederajat",
+                "Mempunyai kemampuan komunikasi dan negosasi yang baik",
+                "Mempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminan",
+                "Memiliki persistensi dan orientasi yang kuat terhadap Pencapaian Target",
+                "Mampu bekerja sama dalam team dengan interpersonal skill yang baik",
+                "Familiar dengan penggunaan Aplikasi Komputer dan Microsoft Office"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Head Risk Analytics & Modelling",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Build credit risk modelling, analytics and reporting for retail customerStrategically hire, train, and manage risk teams",
+                "Partner with product team to determine how technology help to detect and reduce risk.",
+                "Analyze key metrics to determine risk. \u00a0",
+                "Mentoring and supporting junior members of the team will be a key part of the role, in both technical data manipulation skills and documentation delivery.\u00a0",
+                "Maintain the credit model platform which is utilised by the team and expected to provide advice and guidance on ongoing efficiency gains and new credit modelling methodology."
+            ],
+            "qualification": [
+                "Have an undergraduate degree in an analytical discipline (e.g. maths, statistics), however other disciplines will be considered\u00a0",
+                "Have 5+ experience of working in credit / risk modelling for retail customers especially unsecured lending in bank or non bank\u00a0",
+                "Have significant experience of credit modelling using statistic tool such as R, Phyton SAS, SQL analytical tools or advanced MS Excel skills",
+                "Previous experience building unsecured lending credit risk modelling is highly prefered.\u00a0",
+                "Have strong verbal and written skills that ensure you can explain technical concepts to less technically focused colleagues and produce suitable documentation",
+                "Be organised, approachable, confident in engaging with stakeholders at all levels and a keen attention to deta",
+                "Experience of reporting in a Financial environment.\u00a0",
+                "Experience and/or understanding of data validation and verification techniques, advanced data manipulation techniques, development and production lifecycles, error handling, and automated reporting generation."
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Team Leader Field Collection",
+            "location": "Jakarta, Daerah Khusus Ibukota Jakarta, Indonesia",
+            "description": [
+                "Mengelola dan memonitoring kinerja Collection dan Recovery untuk memastikan pencapaian target yang telah ditentukan.",
+                "Memberikan laporan, informasi dan feedback terhadap atasan terhadap pencapaian target Deliquency, Moving AR secara harian, mingguan dan bulanan.",
+                "Membantu kolektor dalam melakukan upaya penagihan terhadap customer yang bersifat kasus.",
+                "Mensupervisi tim serta memberikan coaching bagi Field Collector.",
+                "Memberikan penanganan terhadap Field Collector yang performanya menurun.",
+                "Monitoring hasil kunjungan dan jumlah kunjungan Field Collector",
+                "Melaporkan dan mendiskusikan pencapaian target, masalah dan kesulitan yang dialami kepada atasan.",
+                "Membagi wilayah penanganan untuk masing-masing collector.",
+                "Mengelola dan monitoring pembayaran konsumen.",
+                "Memberikan analisa penanganan konsumen dan melaporkannya ke atasan.",
+                "Melakukan review dan memberikan persetujuan terhadap rencana kunjungan.",
+                "Melaporkan dan mendiskusikan pencapaian target cabang, masalah dan kesulitan yang dialami kepada atasan."
+            ],
+            "qualification": [
+                "Minimal pengalaman 3 tahun di bank / leasing dan atau multifinance (mempunyai pengalaman di industri fintech akan menjadi nilai tambah)",
+                "Minimal pendidikan D3",
+                "Lebih diutamakan bagi yang memiliki pengalaman sebagai supervisor/koordinator Field Collector",
+                "Memiliki kendaraan bermotor dan minimal SIM C (SIM A lebih disukai)",
+                "Mempunyai kemampuan komunikasi dan negosasi yang baik serta memiliki leadership yang baik, jujur, loyal, serta mampu bekerja dengan target",
+                "Mampu bekerja keras dan dapat bekerja sama dalam tim",
+                "Menyukai pekerjaan lapangan",
+                "Mempunyai kompetensi yang baik terutama di bidang field collection (penagihan lapangan) untuk pinjaman tanpa jaminan",
+                "Mampu mengoperasikan Microsoft Office"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Retail Credit Analyst",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Conduct analysis for prospective clients, including financial condition and financial statement trends",
+                "Check for deduplication, additional order/repeat order/black list",
+                "Conduct creditworthiness analysis and provide recommendations for loan applications",
+                "Verify all information and supporting documents provided by prospective clients",
+                "Carry out loan policies according to the prevailing SOP"
+            ],
+            "qualification": [
+                "Maximum 32 years old",
+                "Candidate must possess minimum Bachelor Degree in any field",
+                "Min 1 year of working experience in Credit Analyst in Banking or financial services",
+                "Fresh graduates from reputable university are encouraged to apply. Min GPA 3.0",
+                "Able to operate computer Microsoft Office (Word, Excel, PowerPoint, etc)",
+                "Good analytical thinking, problem solving, high accuracy and detailed oriented",
+                "Have a good individual attitude, willing to learn can work individual or team",
+                "Willing to work with deadlines and target oriented"
+            ],
+            "posted-by": "Grace Benedicta"
+        }
+    ],
+    "People Ops": [
+        {
+            "title": "Senior Recruiter",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Source candidates from multiple channels and make recommendation for new channels",
+                "Manage candidate source to ensure stream of candidates",
+                "Shortlist candidates and select the best from our pool of applicants",
+                "Interview candidate for culture-fit selection process",
+                "Keep track of open positions, hiring funnel, and new headcount requisition from users",
+                "Prepare reports of hiring funnel, turnover rate, and interview results of candidates",
+                "Manage the employee database",
+                "Propose and coordinate HR projects"
+            ],
+            "qualification": [
+                "Previous experience in headhunting or outsourcing company preferred",
+                "Able to work with a large number of job applications and interviews on a daily basis",
+                "Excellent communication and management skills",
+                "Detail oriented, highly adaptable, and quick-thinking",
+                "Comfortable with ambiguity and rapid change",
+                "Able to work with Microsoft Office",
+                "Knowledgeable about Indonesian Labour Laws",
+                "At least 3\u00a0years experience in HR or Recruitment"
+            ],
+            "posted-by": "Aldo Winata"
+        },
+        {
+            "title": "Learning & Development Specialist",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Work closely with each department head in performing Training Need Analysis (TNA)",
+                "Deliver various training modules as necessary\u00a0",
+                "Support people managers in providing the right coaching and people management to their team members\u00a0",
+                "Conduct research on a variety of talent development topics, trends, and best in class practices",
+                "Compile metrics and report on overall training program engagement & effectiveness\u00a0",
+                "Partner with learning platforms and organizations in understanding overall L&D Opportunities and relevance to company needs\u00a0"
+            ],
+            "qualification": [
+                "Professional experience at least 2 years in related fields\u00a0",
+                "Bachelor degree in Human Resource Management, Public Relations, or any major related\u00a0",
+                "Self-driven, proactive and enthusiastic.",
+                "Passionate in working with diverse group of people and in helping them to grow\u00a0",
+                "Ability to communicate clearly and properly in Bahasa Indonesia and English",
+                "Proficient in designing and developing training module"
+            ],
+            "posted-by": "Yovita Laurenzia"
+        },
+        {
+            "title": "VP Of People Ops",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Serve as a the leader for the People Operation / Human Resources team",
+                "Advise, counsel and influence the business leadership team in executing the people operation\u00a0",
+                "Drive change through organization design and operationalization of organizational models",
+                "Advise on recruiting, performance management, employer branding and culture issues",
+                "Lead the company key talent acquisition effort",
+                "Drive initiatives focused on employee satisfaction",
+                "Lead the performance management process process",
+                "Lead initatives across the HR team"
+            ],
+            "qualification": [
+                "10+ years HR experience that includes HR generalist/business partner/Recruitment\u00a0experience and managing HR team",
+                "Consulting, Technology and Finance industry experience strongly preferred",
+                "Extensive experience in stakeholder management around complex strategic HR issues such as talent management, org design/development, change management, compensation and employee relations",
+                "Proven track record in developing strategy and driving change to help drive business results and execute on key initiatives",
+                "Superb relationship management skills, project management\u00a0and the ability to develop strong interpersonal alliances at all levels",
+                "Deep technical HR competence with the ability to influence using a balance of technical HR expertise, business acumen and relationship skills",
+                "Business driven individual with strong financial acumen",
+                "High level of interpersonal skills and integrity; solid team player",
+                "Able to achieve results quickly in a fast-paced organization; thrives in a high intensity environment with multiple and competing priorities",
+                "Unquestionable business and personal integrity and values congruent with those of the organization"
+            ],
+            "posted-by": null
+        },
+        {
+            "title": "Finance Accounting Assistant Manager",
+            "location": "Jakarta, Indonesia",
+            "description": [
+                "Managing all accounting, finance, and tax activities; ensuring that statutory reports and group reporting package are prepared accurately\u00a0",
+                "Supervises, directs, and reviews the work of the accounting and accounting staff\u00a0",
+                "Provide detailed analysis of financial and other information, as directed\u00a0",
+                "Execute analysis and reporting back to finance manager\u00a0",
+                "Maintain inter-company transactions and balances reconciliation across the group."
+            ],
+            "qualification": [
+                "Candidate must possess at least minimum a Diploma Degree, Majoring in Accounting\u00a0",
+                "Having minimum 2 years of work experience (public accounting experience a plus)\u00a0",
+                "Strong operation of Ms Office (Excel) is a must\u00a0",
+                "Having strong analytical skills",
+                "Capable to work under pressure\u00a0",
+                "Ability to work independently\u00a0",
+                "High energy, rapid learner and orientation towards teamwork required"
+            ],
+            "posted-by": null
+        }
+    ]
+}
